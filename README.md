@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome to my Github!
+I'm currently working on a website using react, and the tailwind framework.
+I'm currently working for UNT as a System Integrations Supervisor.
+I'm Interested in DevOps, SysAdmin, Netowork infrastructure, and general Software Development.
+I have a passion for Enthusiast PC building, Gaming, Live Streaming, and Lego.
+
+you can reach me at JacobWoodson@synthetichorizon.net
+
 
 <!--
 **JacobWoodson/JacobWoodson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
